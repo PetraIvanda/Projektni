@@ -1,7 +1,7 @@
 @charset "utf-8"
-/* CSS Document */
+
 @font-face {
-    font-family: "petra-font";
+    font-family: "PetraIvanda";
     src: url("vjezbe/PetraIvanda.ttf");
 }
 p {
@@ -45,15 +45,15 @@ a:hover{
 	background-color: rgba(144, 200, 144, 1.0);
 }
 .petra{
-    color: white;
-    font-size: 80px;
+	color: white;
+	font-size: 80px;
 	line-height: 18px;
 	width: 600px;
-	font-family: "petra-font";
+	font-family: "PetraIvanda", sans-serif;
 }
 
 	li {	display:inline;
-			background-color:rgba(144, 200, 144, 0.3);
+		background-color:rgba(144, 200, 144, 0.3);
 			
 		}
 	li:active {background-color:white;} 
