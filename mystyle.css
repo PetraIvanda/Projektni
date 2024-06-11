@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "PetraIvanda";
-    src: url("Projektni/vjezbe/PetraIvanda.ttf");
+    src: url("Projektni/vjezbe/PetraIvanda.ttf") format(opentype);
 }
 p {
 	color: white;
