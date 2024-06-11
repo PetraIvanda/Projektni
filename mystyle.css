@@ -1,4 +1,4 @@
-@charset "utf-8"
+
 
 @font-face {
     font-family: "PetraIvanda";
@@ -75,9 +75,9 @@ a:hover{
 	padding: 20px;
 }
 .h2{
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial "sans-serif";
-	color:white;
-	font-size: px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: white;
+	font-size: 32px;
 }	
 .h1{
 	font-size: 40px;
